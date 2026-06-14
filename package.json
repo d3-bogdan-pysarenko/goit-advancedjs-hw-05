@@ -7,7 +7,7 @@
     "start": "web-dev-server --node-resolve --open --watch"
   },
   "keywords": [],
-  "author": "Inna Boiko <inna_boiko@libero.it>",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@web/dev-server": "^0.4.6"
